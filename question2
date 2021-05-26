@@ -1,2 +1,1 @@
-chmod 720
-
+grep .java * | wc -l
